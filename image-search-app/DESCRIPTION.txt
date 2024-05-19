@@ -1,3 +1,4 @@
 This image search application allows users to search for images using the Unsplash API. When a user enters a query and clicks the search button, the application fetches images related to the query and displays them on the page. Users can also load more images by clicking the "Show more" button. 
+This application allows users to search for images using a simple and intuitive interface. By leveraging the Unsplash API and dynamically creating HTML elements, the application provides a seamless experience for browsing and loading more images based on user queries. This is achieved through a combination of HTML for structure, CSS for styling, and JavaScript for interactivity and API integration.
 
 Enjoy!!!!
