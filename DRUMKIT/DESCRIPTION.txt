@@ -1,0 +1,12 @@
+This setup provides a simple yet functional drum kit that users can interact with both through clicking buttons and pressing keys on their keyboard.
+
+"HIPHOP DRUM KIT" web application that will allow users to play different drum sounds by clicking on buttons or pressing corresponding keys on the 
+
+HTML (index.html): Defines the structure of the drum kit interface with buttons representing different drum sounds.
+
+CSS (style.css): Styles the buttons and overall layout to make it visually appealing.
+
+JavaScript : Adds functionality to play the corresponding drum sound when a button is clicked or a specific key is pressed. It maps keys to sounds and dynamically loads and plays audio files.
+
+
+ENJOY!!!

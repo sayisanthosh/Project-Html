@@ -1,0 +1,56 @@
+body 
+{
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+ 
+justify-content: center; 
+
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(49,167,255,1) 51%, rgba(0,0,0,1) 100%);
+}
+h1
+ {
+ 
+ font-size: 50px;
+  font-family: Laser Corps, Laser Corps, "Laser Corps", Laser Corps;
+  letter-spacing: 4px;
+  color: black;
+  text-shadow: 2px 2px 4px rgba(61, 191, 255); white-space: nowrap;}
+
+.
+container 
+{
+  text-align: center;
+}
+
+.btn 
+{
+  padding: 30px 50px;
+  background-color: black;
+  border: none;
+  margin: 10px;
+  font-size: 30px;
+  min-width: 200px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0);
+ 
+ background-image: url("images/tom.png");
+  
+background-size: cover;
+  color:white;
+  font-family: Laser Corps;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.btn:hover {
+  color:blue;
+}
+
+.btn:active {
+  background-size: 105%;
+}
