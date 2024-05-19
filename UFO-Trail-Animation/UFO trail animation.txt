@@ -1,0 +1,5 @@
+This application creates a Ufo trail animation that follows the user's mouse movements. As the user moves the mouse around the screen, ufo shapes will appear and fade out, creating a trail effect. This is accomplished using CSS for the ufo shapes and animations, and JavaScript to handle mouse events and create the ufo elements dynamically.
+
+This implementation provides a fun and interactive visual effect as users move their mouse, creating a trail of UFO shapes that fade away after a short duration.
+
+ENJOY !!!
