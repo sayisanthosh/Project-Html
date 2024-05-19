@@ -1,0 +1,3 @@
+This image search application allows users to search for images using the Unsplash API. When a user enters a query and clicks the search button, the application fetches images related to the query and displays them on the page. Users can also load more images by clicking the "Show more" button. 
+
+Enjoy!!!!
