@@ -1,0 +1,31 @@
+Weather App
+
+USAGE
+
+*Open the application in your web browser.
+*Enter the name of a city in the search bar and press the search button or hit Enter.
+*The application will fetch and display the current weather information for the specified city.
+
+CODE STRUCTURE
+
+index.html: The main HTML file that contains the structure of the app.
+Weather-App.css: The CSS file that contains the styling for the app.
+Weather-App.js: The JavaScript file that contains the logic for fetching and displaying weather data.
+
+API
+
+This application uses the OpenWeatherMap API to fetch weather data. You need an API key from OpenWeatherMap to use this service.
+
+Obtaining an API Key
+Go to the OpenWeatherMap website and sign up for a free account.
+
+Navigate to the API keys section in your account and generate a new API key.
+
+Replace the placeholder API key in Weather-App.js with your own API key:
+
+
+Contact
+If you have any questions, feel free to reach out:
+
+GitHub: sayisanthosh
+Email: sayisanthosh4@gmail.com
