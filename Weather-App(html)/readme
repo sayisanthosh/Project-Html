@@ -1,0 +1,34 @@
+# Weather App
+
+A simple weather application that displays current weather conditions for any city using the OpenWeatherMap API.
+
+## Features
+
+- Fetches and displays current weather data for a searched city.
+- Displays city name, temperature, weather icon, description, humidity, and wind speed.
+- Dynamically updates the background image based on the searched city's name.
+- Simple and intuitive user interface.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [OpenWeatherMap API](https://openweathermap.org/api)
+
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have a web browser installed.
+- You have an internet connection.
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
