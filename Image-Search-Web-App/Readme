@@ -1,0 +1,32 @@
+# ImageSearchWebApplication
+
+This project contains the code for a simple Image Search application that allows users to search for images using a keyword and view the results dynamically.
+
+## Features
+-- Search Functionality: Users can input a search term to find relevant images.
+-- Dynamic Results: The application displays the search results with images and links to the original source.
+-- Load More Results: Users can click on a "Show more" button to load additional search results.
+
+## How It Works
+-- Search Input: Users type a search term into the input field.
+-- Search Button: Users click the "Search" button to initiate the search.
+-- Displaying Results: The search results are displayed dynamically below the search form, including images and links to the original sources.
+-- Show More Button: Clicking the "Show more" button loads additional images, enhancing the search experience.
+
+## Files Included
+
+index.html: The main HTML file containing the structure of the application.
+style.css: The CSS file for styling the application.
+index.js: The JavaScript file handling the search logic and dynamic content rendering.
+Installation and Usage
+Clone the Repository:
+
+'' bash ''
+Copy code
+git clone https://github.com/sayisantosh/image-search-Web-app.git
+cd image-search-Web-app
+Open the Application:
+Open the index.html file in a web browser to use the application.
+
+Contributions
+Contributions are welcome! If you have any suggestions, enhancements, or bug reports, feel free to open an issue or submit a pull request.
